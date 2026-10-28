@@ -1,0 +1,23 @@
+Business Name: The Critical Hit Board Game Café
+Location: 123 Meeple Street
+Hours: Tuesday - Sunday, 12:00 PM to 10:00 PM (Closed Mondays)
+
+Rules & Policies:
+- Table cover charge is $5 per person for 2 hours of gameplay.
+- Maximum party size is 6 people per table (10 tables total in café).
+- Outside food and drink are strictly prohibited.
+- Board games are for in-store play only (1 copy of each game in stock).
+
+Food & Drink Menu:
+- Meeple Mocha: $4.50 (Oat and Almond milk available for +$0.50)
+- Health Potion Smoothie (Berry/Vegan): $6.00
+- D20 Pepperoni Pizza: $12.00
+- Vegan Margherita Pizza: $14.00
+- Bowl of Dice Mixed Nuts (contains peanuts): $4.00
+
+Available Board Game Library:
+- Catan (Strategy, 3-4 players)
+- Ticket to Ride (Family, 2-5 players)
+- Wingspan (Strategy/Nature, 1-5 players)
+- Codenames (Party/Word, 2-8 players)
+- Betrayal at House on the Hill (Horror/Co-op, 3-6 players)

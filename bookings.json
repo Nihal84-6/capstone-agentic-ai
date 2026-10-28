@@ -1,0 +1,30 @@
+[
+    {
+        "customer_name": "Ritesh",
+        "party_size": 6,
+        "game_name": "Codenames",
+        "time_slot": "6:00 PM (3 hrs)",
+        "cover_fee": "$45.00"
+    },
+    {
+        "customer_name": "Ritesh",
+        "party_size": 5,
+        "game_name": "Ticket to Ride",
+        "time_slot": "6:00 PM (3 hrs)",
+        "cover_fee": "$37.50"
+    },
+    {
+        "customer_name": "Ritesh",
+        "party_size": 5,
+        "game_name": "Wingspan",
+        "time_slot": "6:00 PM (3 hrs)",
+        "cover_fee": "$37.50"
+    },
+    {
+        "customer_name": "Ritesh",
+        "party_size": 5,
+        "game_name": "Betrayal at House on the Hill",
+        "time_slot": "6:00 PM (3 hrs)",
+        "cover_fee": "$37.50"
+    }
+]
