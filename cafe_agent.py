@@ -1135,6 +1135,9 @@ def _fallback_order(user_text: str, low: str) -> str:
 
 def local_fallback_router(user_text: str) -> str:
     low = user_text.lower().strip()
+    if re.search(r"\b(stop|cancel|nevermind|never mind|forget it|quit)\b", low):
+        st.session_state.pending = None
+        return "No problem, I've dropped that request. What else can I help you with?"
     pend = st.session_state.get("pending") or {}
 
     name = extract_name(user_text, "")
